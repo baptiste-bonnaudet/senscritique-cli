@@ -34,7 +34,7 @@ packages = ["src/senscritique_cli"]
 
 [dependency-groups]
 dev = [
-    "mypy>=1.13",
+    "mypy>=2.3.0",
     "pytest>=8.3",
     "pytest-cov>=6.0",
     "requests-mock>=1.12",
